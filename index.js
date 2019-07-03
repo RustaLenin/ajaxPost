@@ -1,5 +1,5 @@
 /**
- * Function rapper to send JS Object via Fetch post
+ * Function wrapper to send JS Object via Fetch post
  * @param data { object } - What we need to send
  * @param url - { string } - Url where we need to send, if not present, will sent to current base url
  * @returns { Promise<Response> } - JSON response parsed to JS object
